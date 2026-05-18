@@ -1,0 +1,201 @@
+- generic [active] [ref=e1]:
+  - link "Aller au contenu" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner:
+    - navigation "Navigation principale" [ref=e3]:
+      - generic [ref=e4]: MZ
+      - generic [ref=e5]:
+        - link "Compétences" [ref=e6] [cursor=pointer]:
+          - /url: "#competences"
+        - link "Expérience" [ref=e7] [cursor=pointer]:
+          - /url: "#experience"
+        - link "Projets" [ref=e8] [cursor=pointer]:
+          - /url: "#projets"
+        - link "Formation" [ref=e9] [cursor=pointer]:
+          - /url: "#formation"
+        - link "Contact" [ref=e10] [cursor=pointer]:
+          - /url: "#contact"
+  - main [ref=e11]:
+    - generic [ref=e14]:
+      - generic [ref=e15]:
+        - generic [ref=e16]: Actuariat Quantitatif · Modélisation Stochastique · Architectures Multi-Agents
+        - heading "Mohamed Zeidan" [level=1] [ref=e17]:
+          - text: Mohamed
+          - text: Zeidan
+        - generic [ref=e18]:
+          - generic [ref=e19]: Diplômé ISFA — Calcul Stochastique & Data Science
+          - generic [ref=e20]: R&D Indépendante — Agentic Workflows & RAG
+        - paragraph [ref=e21]: Actuaire Quantitatif & Ingénieur R&D (IA & Risques)
+        - paragraph [ref=e22]: Diplômé de l'ISFA Lyon en actuariat, orienté vers la recherche quantitative et le développement de systèmes d'IA. Travaux en modélisation stochastique, architectures multi-agents, RAG local et backtesting en échantillons finis.
+        - generic [ref=e23]:
+          - link "Me contacter" [ref=e24] [cursor=pointer]:
+            - /url: mailto:medzeidane111@gmail.com
+          - link "Voir mon parcours" [ref=e25] [cursor=pointer]:
+            - /url: "#experience"
+          - link "GitHub" [ref=e26] [cursor=pointer]:
+            - /url: https://github.com/Zeidan18037
+      - img "Photo de Mohamed Zeidan" [ref=e28]
+    - generic [ref=e30]:
+      - generic [ref=e31]: SAVOIR-FAIRE
+      - heading "Compétences clés" [level=2] [ref=e32]
+      - generic [ref=e34]:
+        - generic [ref=e35]:
+          - generic [ref=e36]: 📐
+          - heading "Modélisation & Mathématiques Financières" [level=3] [ref=e37]
+          - generic [ref=e38]:
+            - generic [ref=e39]: Calcul Stochastique
+            - generic [ref=e40]: VaR / Expected Shortfall
+            - generic [ref=e41]: Économétrie financière
+            - generic [ref=e42]: Processus de Poisson/Bernoulli
+            - generic [ref=e43]: Solvabilité II
+            - generic [ref=e44]: Profit-testing
+        - generic [ref=e45]:
+          - generic [ref=e46]: 🤖
+          - heading "Intelligence Artificielle & Ingénierie Logicielle" [level=3] [ref=e47]
+          - generic [ref=e48]:
+            - generic [ref=e49]: Multi-Agents (OpenCode)
+            - generic [ref=e50]: RAG local (ChromaDB, SQLite)
+            - generic [ref=e51]: Protocoles MCP
+            - generic [ref=e52]: Meta-Learning
+            - generic [ref=e53]: Next.js
+            - generic [ref=e54]: Vercel
+            - generic [ref=e55]: Python
+        - generic [ref=e56]:
+          - generic [ref=e57]: 🧠
+          - heading "Modélisation & Data Science" [level=3] [ref=e58]
+          - generic [ref=e59]:
+            - generic [ref=e60]: GLM / XGBoost
+            - generic [ref=e61]: Monte-Carlo
+            - generic [ref=e62]: Federated Learning
+            - generic [ref=e63]: Hull-White
+            - generic [ref=e64]: VaR (99,5%)
+            - generic [ref=e65]: Analyse de sensibilité
+        - generic [ref=e66]:
+          - generic [ref=e67]: ⚙️
+          - heading "Outils & Automatisation" [level=3] [ref=e68]
+          - generic [ref=e69]:
+            - generic [ref=e70]: VBA
+            - generic [ref=e71]: SAS
+            - generic [ref=e72]: R
+            - generic [ref=e73]: SQL
+            - generic [ref=e74]: Excel avancé
+    - generic [ref=e76]:
+      - generic [ref=e77]: PARCOURS
+      - heading "Expérience professionnelle" [level=2] [ref=e78]
+      - generic [ref=e80]:
+        - generic [ref=e81]:
+          - generic [ref=e83]: Janvier 2025 – Présent
+          - generic [ref=e84]: R&D Indépendante
+          - generic [ref=e85]: Actuaire R&D Indépendant – IA & Gestion des Risques
+          - list [ref=e86]:
+            - listitem [ref=e87]: › Recherche et développement de solutions technologiques pour le secteur financier.
+            - listitem [ref=e88]: › Conception d'architectures d'IA générative distribuées pour résoudre l'effondrement de contexte des LLMs.
+            - listitem [ref=e89]: › Développement d'applications de scoring alternatif pour l'évaluation du risque de crédit.
+        - generic [ref=e90]:
+          - generic [ref=e92]: 2024 – 2025
+          - generic [ref=e93]: Abeille Assurances · Bois-Colombes
+          - generic [ref=e94]: Chargé d'études statistiques — Alternance
+          - list [ref=e95]:
+            - listitem [ref=e96]: "› Conception d'un dispositif de commissionnement : analyse des impacts économiques, pondérations et enjeux de rentabilité."
+            - listitem [ref=e97]: › Analyses comparatives revenus projetés / réalisés, identification des écarts et recommandations de pilotage de portefeuilles.
+            - listitem [ref=e98]: › Production d'indicateurs de rentabilité et de solvabilité par production apportée, dans le cadre Solvabilité II.
+            - listitem [ref=e99]: › Optimisation des processus de calcul et de reporting sous Excel / VBA.
+        - generic [ref=e100]:
+          - generic [ref=e102]: 2023 (3 mois)
+          - generic [ref=e103]: Abeille Assurances · Bois-Colombes
+          - generic [ref=e104]: Chargé d'études statistiques — Stage
+          - list [ref=e105]:
+            - listitem [ref=e106]: › Modélisation de scénarios de performance d'actifs et analyses de sensibilité pour évaluer l'impact de la réforme DDA sur les produits d'assurance vie.
+            - listitem [ref=e107]: › Études de rentabilité sur les affaires nouvelles (profit-testing) avec projections de revenus futurs et analyse de marge.
+            - listitem [ref=e108]: › Exploitation de bases de données quantitatives pour produire des analyses destinées aux équipes actuarielles et financières.
+    - generic [ref=e110]:
+      - generic [ref=e111]: R&D & ISFA LYON
+      - heading "Projets académiques & R&D" [level=2] [ref=e112]
+      - generic [ref=e114]:
+        - generic [ref=e115]:
+          - generic [ref=e116]: IA GÉNÉRATIVE & MULTI-AGENTS
+          - heading "Framework Multi-Agents" [level=3] [ref=e117]
+          - paragraph [ref=e118]: Architecture IA pour l'audit de consistance textuelle et financière. Agent Gardien calqué sur le contrôle interne actuariel, RAG local, auto-optimisation des prompts (evolve_instructions.py).
+          - generic [ref=e119]: Architecture distribuée · RAG ChromaDB
+        - generic [ref=e120]:
+          - generic [ref=e121]: FINTECH & FULL-STACK
+          - heading "MauriCarnet — Suivi financier & Risque de crédit" [level=3] [ref=e122]
+          - paragraph [ref=e123]: Modélisation et développement Full-Stack d'une solution numérique dédiée au suivi financier et à l'évaluation du risque de crédit pour les acteurs de l'économie informelle.
+          - generic [ref=e124]: Next.js · Vercel · Modélisation risque
+        - generic [ref=e125]:
+          - generic [ref=e126]: DATA SCIENCE & IA
+          - heading "Pricing Auto — Optimisation tarifaire" [level=3] [ref=e127]
+          - paragraph [ref=e128]: Modèles GLM et XGBoost sur plus de 500 000 lignes de données pour affiner la tarification automobile.
+          - generic [ref=e129]: +8% de précision
+        - generic [ref=e130]:
+          - generic [ref=e131]: DATA SCIENCE & IA
+          - heading "Détection de fraude — Federated Learning" [level=3] [ref=e132]
+          - paragraph [ref=e133]: Architecture distribuée à 4 nœuds pour détecter des schémas de fraude complexes sans centralisation des données.
+          - generic [ref=e134]: 12% de schémas inédits détectés
+        - generic [ref=e135]:
+          - generic [ref=e136]: SOLVABILITÉ II
+          - heading "Risque de défaut — Modélisation SCR" [level=3] [ref=e137]
+          - paragraph [ref=e138]: Simulation Monte-Carlo pour quantifier le risque de contrepartie et réaliser des stress tests sur ratio de solvabilité.
+          - generic [ref=e139]: 10 000 scénarios · portefeuille 75M€
+        - generic [ref=e140]:
+          - generic [ref=e141]: MODÉLISATION ACTUARIELLE
+          - heading "Best Estimate — Modèles de taux" [level=3] [ref=e142]
+          - paragraph [ref=e143]: Projection stochastique de provisions (Best Estimate) via modèle Hull-White et calcul de la VaR à 99,5%.
+          - generic [ref=e144]: 50 000 trajectoires financières
+        - generic [ref=e145]:
+          - generic [ref=e146]: MÉMOIRE MASTER
+          - heading "Allocations exceptionnelles retraite individuelle" [level=3] [ref=e147]
+          - paragraph [ref=e148]: Optimisation du protocole d'allocations exceptionnelles sur les produits retraite individuels, intégrant les contraintes réglementaires et de rentabilité.
+          - generic [ref=e149]: Mémoire ISFA 2024
+    - generic [ref=e151]:
+      - generic [ref=e152]: CURSUS
+      - heading "Formation" [level=2] [ref=e153]
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - generic [ref=e157]: 2021 – 2024
+          - heading "Master en Actuariat" [level=3] [ref=e158]
+          - generic [ref=e159]: Institut de Science Financières et d'Assurances (ISFA) · Lyon
+          - generic [ref=e160]:
+            - text: Spécialisation en modélisation actuarielle, gestion des risques et finance quantitative.
+            - text: "Mémoire : Optimisation du protocole d'allocations exceptionnelles sur les produits retraite individuels."
+        - generic [ref=e161]:
+          - generic [ref=e162]: 2019 – 2021
+          - heading "Classes Préparatoires MPSI · MP*" [level=3] [ref=e163]
+          - generic [ref=e164]: École Supérieure Polytechnique · Nouakchott
+          - generic [ref=e165]: Formation intensive en mathématiques, physique et informatique préparant aux grandes écoles d'ingénieurs.
+    - generic [ref=e167]:
+      - generic [ref=e168]: CONTACT
+      - heading "Me contacter" [level=2] [ref=e169]
+      - generic [ref=e171]:
+        - generic [ref=e172]:
+          - paragraph [ref=e173]: Ouvert aux opportunités en recherche quantitative, doctorat, R&D IA et gestion des risques. N'hésitez pas à me contacter pour échanger.
+          - generic [ref=e174]:
+            - generic [ref=e175]:
+              - generic [ref=e176]: ✉️
+              - link "medzeidane111@gmail.com" [ref=e177] [cursor=pointer]:
+                - /url: mailto:medzeidane111@gmail.com
+            - generic [ref=e178]:
+              - generic [ref=e179]: in
+              - link "LinkedIn" [ref=e180] [cursor=pointer]:
+                - /url: https://www.linkedin.com/in/mohamed-zeidan-a78695240/
+        - generic [ref=e181]:
+          - generic [ref=e182]:
+            - heading "LANGUES" [level=4] [ref=e183]
+            - generic [ref=e184]:
+              - generic [ref=e185]: Français
+              - generic [ref=e188]: C1
+            - generic [ref=e189]:
+              - generic [ref=e190]: Anglais
+              - generic [ref=e193]: B2
+            - generic [ref=e194]:
+              - generic [ref=e195]: Arabe
+              - generic [ref=e198]: C2
+          - generic [ref=e199]:
+            - heading "CENTRES D'INTÉRÊT" [level=4] [ref=e200]
+            - generic [ref=e201]:
+              - generic [ref=e202]: Lecture
+              - generic [ref=e203]: Échecs
+              - generic [ref=e204]: Football
+              - generic [ref=e205]: Voyages
+  - contentinfo [ref=e206]:
+    - paragraph [ref=e207]: © 2025 Mohamed Zeidan · Actuaire Quantitatif · Lyon

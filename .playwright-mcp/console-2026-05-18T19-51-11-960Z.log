@@ -1,0 +1,4 @@
+[      40ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8000/manifest.json:0
+[      41ms] [ERROR] Manifest fetch from http://localhost:8000/manifest.json failed, code 404 @ http://localhost:8000/:0
+[  173474ms] [ERROR] Failed to load resource: the server responded with a status of 404 (File not found) @ http://localhost:8000/manifest.json:0
+[  173478ms] [ERROR] Manifest fetch from http://localhost:8000/manifest.json failed, code 404 @ http://localhost:8000/#experience:0
